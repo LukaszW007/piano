@@ -1,0 +1,9 @@
+CACHE MANIFEST
+#ver:2018-6-4 14:24:24
+#plugin:4.9.0
+
+CACHE:
+../
+
+NETWORK:
+*
